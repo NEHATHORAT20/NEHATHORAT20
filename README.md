@@ -51,6 +51,7 @@ Passionate about building scalable software, AI-powered applications, and solvin
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=for-the-badge&logo=apache)
 
 ---
 
