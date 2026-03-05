@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Neha Thorat</h1>
+<h1 align="center">Hi, I'm Neha Thorat</h1>
 
-<h3 align="center">💻 Software Developer | 🤖 AI/ML Enthusiast | 🎓 Final Year IT Engineering Student</h3>
+<h3 align="center">💻 Software Engineer | 🤖 AI/ML Enthusiast | 🎓 Final Year IT Engineering Student</h3>
 
 <p align="center">
 Passionate about building scalable software, AI-powered applications, and solving real-world problems using technology.
@@ -13,8 +13,8 @@ Passionate about building scalable software, AI-powered applications, and solvin
 - 🎓 Final Year **Information Technology Engineering Student**
 - 💻 Interested in **Software Development & Machine Learning**
 - 🧠 Solved **100+ Data Structures & Algorithms problems**
-- 🌱 Currently exploring **Generative AI and automation**
-- 🎯 Preparing for **Software Developer roles**
+- 🌱 Currently exploring **Generative AI and Automation**
+- 🎯 Preparing for **Software Developer Roles**
 
 ---
 
@@ -74,18 +74,6 @@ Java-based application that packs multiple files into one encrypted file with AE
 Simulation of Linux file system operations using advanced data structures.
 
 **Tech:** C Programming, Data Structures
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
